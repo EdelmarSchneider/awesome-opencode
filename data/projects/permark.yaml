@@ -1,0 +1,5 @@
+name: PerMark
+repo: https://github.com/EdelmarSchneider/permark
+tagline: Desktop Markdown IDE & MCP server for planning, reviewing, and steering OpenCode specs and docs
+description: >-
+  Read what your AI writes. Write what it reads. PerMark (formerly TrailMark) is a fast, local-first Tauri 2 (Rust + Svelte 5) desktop Markdown IDE for Windows, macOS, and Linux that connects directly to OpenCode via its built-in MCP server (`permark mcp`), prompt context hook (`permark context`), and universal Agent Skill (`skills/permark/SKILL.md`). Watch OpenCode edits glow in real time with block-level diffs and removal markers, track unread changes across commits and parallel git worktrees, leave inline passage comments (`C`) for OpenCode to resolve, search tagged specs via BM25, and share self-saving notes—while rendering and editing any `.md` file as a clean page with Mermaid diagrams, KaTeX math, tables, and ~190 syntax-highlighted languages.
